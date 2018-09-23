@@ -13,10 +13,13 @@
     </head>
     <body class="h-100">
         <div class="container-fluid d-flex h-100 justify-content-center align-items-center">
+        <h1 style="color:white;">Welcome to Linox!</h1>
+        </div>
+        <!-- <div class="container-fluid d-flex h-100 justify-content-center align-items-center">
             <div class="card w-25">
                 <div class="card-header text-center font-weight-bold"><h3>Login</h3></div>
                 <div class="card-body">
-                    <form action="">
+                    <form action="" method="post">
 
                         <div class="form-group">
                             <label for="exampleInputEmail1">Email address</label>
@@ -33,6 +36,6 @@
                     </form>
                 </div>
             </div>
-        </div>
+        </div> -->
     </body>
 </html>
